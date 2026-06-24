@@ -13,14 +13,14 @@ The repository contains the following processed datasets:
 
 | File          | Description                              |
 | ------------- | ---------------------------------------- |
-| `Pheme-1.zip` | Processed dynamic graph data for Pheme-1 |
-| `Pheme-2.zip` | Processed dynamic graph data for Pheme-2 |
-| `Pheme-3.zip` | Processed dynamic graph data for Pheme-3 |
-| `Pheme-4.zip` | Processed dynamic graph data for Pheme-4 |
-| `Pheme-5.zip` | Processed dynamic graph data for Pheme-5 |
-| `Weibo.zip`   | Processed dynamic graph data for Weibo   |
-| `Enron-1.zip` | Processed dynamic graph data for Enron-1 |
-| `Enron-2.zip` | Processed dynamic graph data for Enron-2 |
+| `Pheme-1.rar` | Processed dynamic graph data for Pheme-1 |
+| `Pheme-2.rar` | Processed dynamic graph data for Pheme-2 |
+| `Pheme-3.rar` | Processed dynamic graph data for Pheme-3 |
+| `Pheme-4.rar` | Processed dynamic graph data for Pheme-4 |
+| `Pheme-5.rar` | Processed dynamic graph data for Pheme-5 |
+| `Weibo.rar`   | Processed dynamic graph data for Weibo   |
+| `Enron-1.rar` | Processed dynamic graph data for Enron-1 |
+| `Enron-2.rar` | Processed dynamic graph data for Enron-2 |
 
 ## Released Contents
 
